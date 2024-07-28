@@ -1,2 +1,13 @@
-# project_business
-Project, which involves heavy business analysis, using the RR/CR metrics, as well as LTV/CAC/ROI
+## Проект анализа бизнесс показателей
+_________________
+Проанализировал данные о затратах на рекламу одной компании. Проверил основные бизнес метрики. На основании построенных графиков смог найти проблемные места в расходах на рекламу. Подготовил отчет с рекомендациями, благодаря которому, бизнес показатели пришли в норму.
+____________________
+### Инструменты:
+- Pandas
+- Matplotlib
+- NumPy
+- Seaborn
+- Описательная статистика
+- Бизнес показатели Retention Rate/ Churn rate, LTV, CAC, ROI
+
+[**Ссылка на проект в nbviewer**](https://nbviewer.org/github/RudkovYaroslav/project_business/blob/main/Business_analysis.ipynb)
